@@ -8,3 +8,5 @@ IL faut juste un terminal bash et git.
 
 
 Ceci est un nouveau test de commit
+
+Git commit
